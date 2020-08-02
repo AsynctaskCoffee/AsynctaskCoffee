@@ -5,34 +5,10 @@
 
 ⭐️ From [Egemen](https://github.com/AsynctaskCoffee)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AsynctaskCoffee&repo=github-readme-stats)](https://github.com/AsynctaskCoffee/VideoLayout)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AsynctaskCoffee&repo=github-readme-stats)](https://github.com/AsynctaskCoffee/YoutubeFloatingVideo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AsynctaskCoffee&repo=github-readme-stats)](https://github.com/AsynctaskCoffee/AndroidOfflineMapLibrary)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AsynctaskCoffee&repo=github-readme-stats)](https://github.com/AsynctaskCoffee/AndroidMVPExample)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AsynctaskCoffee&repo=github-readme-stats)](https://github.com/AsynctaskCoffee/VoiceRecorder)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AsynctaskCoffee&repo=github-readme-stats)](https://github.com/AsynctaskCoffee/PokeApi-pokedex)
-
-<a href="https://github.com/AsynctaskCoffee/VideoLayout">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AsynctaskCoffee&repo=VideoLayout" />
-</a>
-
-<a href="https://github.com/AsynctaskCoffee/YoutubeFloatingVideo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AsynctaskCoffee&repo=YoutubeFloatingVideo" />
-</a>
-
-<a href="https://github.com/AsynctaskCoffee/AndroidOfflineMapLibrary">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AsynctaskCoffee&repo=AndroidOfflineMapLibrary" />
-</a>
-
-<a href="https://github.com/AsynctaskCoffee/AndroidMVPExample">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AsynctaskCoffee&repo=AndroidMVPExample" />
-</a>
-
-<a href="https://github.com/AsynctaskCoffee/VoiceRecorder">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AsynctaskCoffee&repo=VoiceRecorder" />
-</a>
-
-<a href="https://github.com/AsynctaskCoffee/PokeApi-pokedex">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AsynctaskCoffee&repo=PokeApi-pokedex" />
-</a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AsynctaskCoffee&repo=VideoLayout)](https://github.com/AsynctaskCoffee/VideoLayout)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AsynctaskCoffee&repo=YoutubeFloatingVideo)](https://github.com/AsynctaskCoffee/YoutubeFloatingVideo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AsynctaskCoffee&repo=AndroidOfflineMapLibrary)](https://github.com/AsynctaskCoffee/AndroidOfflineMapLibrary)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AsynctaskCoffee&repo=AndroidMVPExample)](https://github.com/AsynctaskCoffee/AndroidMVPExample)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AsynctaskCoffee&repo=VoiceRecorder)](https://github.com/AsynctaskCoffee/VoiceRecorder)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AsynctaskCoffee&repo=PokeApi-pokedex)](https://github.com/AsynctaskCoffee/PokeApi-pokedex)
 

@@ -1,4 +1,4 @@
-# Egemen ÖZOGUL :computer: :tr:
+# Egemen ÖZOGUL :computer: :calling:
 
 [![Twitter Badge](https://img.shields.io/badge/-@basicodemine-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/basicodemine)](https://twitter.com/basicodemine) 
 [![Linkedin Badge](https://img.shields.io/badge/-basicodemine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/basicodemine/)](https://www.linkedin.com/in/basicodemine/) 

@@ -1,4 +1,4 @@
-# Egemen ÖZOGUL :computer: :calling:
+# Egemen ÖZOGUL 👨🏻‍💻
 
 [![Twitter Badge](https://img.shields.io/badge/-basicodemine-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/basicodemine)](https://twitter.com/basicodemine) 
 [![Medium Badge](https://img.shields.io/badge/-AsynctaskCoffee-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@AsynctaskCoffee/)](https://medium.com/@AsynctaskCoffee/)

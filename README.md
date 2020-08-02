@@ -11,6 +11,7 @@ Let me introduce myself :slightly_smiling_face: I am Egemen, as you all coding w
 
 [![GitHub followers](https://img.shields.io/github/followers/AsynctaskCoffee?label=Follow&style=social)](https://github.com/AsynctaskCoffee/?tab=follow)
 
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif" />
 
 
 ![AsynctaskCoffee's github stats](https://github-readme-stats.vercel.app/api?username=AsynctaskCoffee&show_icons=true&hide_border=true)

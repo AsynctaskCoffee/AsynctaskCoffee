@@ -4,7 +4,7 @@
 [![Medium Badge](https://img.shields.io/badge/-AsynctaskCoffee-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@AsynctaskCoffee/)](https://medium.com/@AsynctaskCoffee/)
 [![Linkedin Badge](https://img.shields.io/badge/-basicodemine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/basicodemine/)](https://www.linkedin.com/in/basicodemine/) 
 [![Gmail Badge](https://img.shields.io/badge/-asynctaskcoffee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:AsynctaskCoffee@gmail.com)](mailto:AsynctaskCoffee@gmail.com)
-[![DevTo Badge](https://img.shields.io/badge/-AsynctaskCoffee-000000?style=flat-square&logo=Dev&logoColor=white&link=https://dev.to/asynctaskcoffee)](https://dev.to/asynctaskcoffee)
+[![DevTo Badge](https://img.shields.io/badge/DEV-AsynctaskCoffee-000000&link=https://dev.to/asynctaskcoffee)](https://dev.to/asynctaskcoffee)
 
 
 

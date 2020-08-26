@@ -36,7 +36,6 @@ Let me introduce myself :slightly_smiling_face: I am Egemen, as you all coding w
 [![Kotlin Version](https://img.shields.io/badge/language-kotlin%20100%25-orange.svg)](https://kotlinlang.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)  ![version](https://img.shields.io/badge/version-0.1-blue) [![Generic badge](https://img.shields.io/badge/See-Project-green.svg)](https://github.com/AsynctaskCoffee/BlurryAndroid)
 
-<img src="https://github.com/AsynctaskCoffee/BlurryAndroid/blob/master/sample.png" width="175">
 
 Async or Sync, you can quickly blur your images. The library supports Bitmap, Drawable and CustomViews. You have the opportunity to use the necessary libraries separately. If you encounter an error or problem, please open a issue. It will be fixed as soon as possible. ⚡
 
@@ -47,8 +46,6 @@ Async or Sync, you can quickly blur your images. The library supports Bitmap, Dr
 
 [![Kotlin Version](https://img.shields.io/badge/language-kotlin%20100%25-orange.svg)](https://kotlinlang.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) [![Generic badge](https://img.shields.io/badge/See-Project-green.svg)](https://github.com/AsynctaskCoffee/TheMovieDBApp)
-
-<img src = "https://raw.githubusercontent.com/AsynctaskCoffee/TheMovieDBApp/master/grph/viewtrainsition.gif" width ="100" /> <img src = "https://raw.githubusercontent.com/AsynctaskCoffee/TheMovieDBApp/master/grph/motionlayout.gif" width ="100" />
 
 MVP-Kotlin application, that allows the user to fetch movie and series information from a TMDB's API. :bowtie: It will make me very happy to your report about places you think have problems. :facepunch:
 
@@ -62,8 +59,6 @@ MVP-Kotlin application, that allows the user to fetch movie and series informati
 
 > Performance friendly and scalable
 
-<img src="https://raw.githubusercontent.com/AsynctaskCoffee/VideoLayout/master/previews/pp1.gif" width="100"> <img src="https://raw.githubusercontent.com/AsynctaskCoffee/VideoLayout/master/previews/pp2.gif" width="100">
-
 The normal videoview on Android is very costly in terms of performance. Also, due to the video resolution ratio and apk size, most developers don't want to include videos in the project. With this library, developers will have a performance-friendly video background with a few lines of code. :boom:
 
 ---
@@ -73,8 +68,6 @@ The normal videoview on Android is very costly in terms of performance. Also, du
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/84183234c74045b8a64bce56e094f269)](https://app.codacy.com/app/AsynctaskCoffee/YoutubeFloatingVideo?utm_source=github.com&utm_medium=referral&utm_content=AsynctaskCoffee/YoutubeFloatingVideo&utm_campaign=Badge_Grade_Dashboard) [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) ![version](https://img.shields.io/badge/version-0.0.5-blue) [![Generic badge](https://img.shields.io/badge/See-Project-green.svg)](https://github.com/AsynctaskCoffee/YoutubeFloatingVideo)
 
 > Easy to use floating Youtube Video Library
-
-<img src="https://raw.githubusercontent.com/AsynctaskCoffee/YoutubeFloatingVideo/master/previews/untitledx22.gif" width="100"> <img src="https://raw.githubusercontent.com/AsynctaskCoffee/YoutubeFloatingVideo/master/previews/untitledx1.gif" width="100">
 
 Picture in picture has become popular these days. Unfortunately Android brought this support to Android 8.0 (API level 26) and later versions. Pip and floating video supported apps offer users the ability to easily view other features while watching videos (Like reading comments etc). With this library you can play youtube videos in a floating panel. :hatching_chick:
 
@@ -89,8 +82,6 @@ Picture in picture has become popular these days. Unfortunately Android brought 
 
 > Performance friendly and scalable
 
-<img src="https://raw.githubusercontent.com/AsynctaskCoffee/AndroidOfflineMapLibrary/master/picsfortut/q7.png" width="100"> <img src="https://raw.githubusercontent.com/AsynctaskCoffee/AndroidOfflineMapLibrary/master/picsfortut/q8.gif" width="100">
-
 #### [MEDIUM POST](https://medium.com/@asynctaskcoffee/android-openstreetmap-offline-map-setup-8c71eee40088) 
 
 Offline map usage is kind a problem for developers and there are rare documentations. I believe this library will helpful for developers. 
@@ -100,8 +91,6 @@ Offline map usage is kind a problem for developers and there are rare documentat
 ## Easy Audio Recorder
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) ![version](https://img.shields.io/badge/version-0.3-blue) [![Generic badge](https://img.shields.io/badge/See-Project-green.svg)](https://github.com/AsynctaskCoffee/VoiceRecorder)
-
-<img src="https://raw.githubusercontent.com/AsynctaskCoffee/VoiceRecorder/master/previews/preview_gif_1.gif" width="100"> <img src="https://raw.githubusercontent.com/AsynctaskCoffee/VoiceRecorder/master/previews/preview_gif_2.gif" width="100">  <img src="https://raw.githubusercontent.com/AsynctaskCoffee/VoiceRecorder/master/previews/preview_gif_3.gif" width="100">
 
 > Two stylish design and
 

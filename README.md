@@ -33,7 +33,7 @@ Let me introduce myself :slightly_smiling_face: I am Egemen, as you all coding w
 ## Blurr :foggy: Easy Blur and Tools Library
 > Simple and quick solution for blurred bitmaps.
 
-[![download repo](https://img.shields.io/github/downloads/AsynctaskCoffee/BlurryAndroid/total)](https://github.com/AsynctaskCoffee/BlurryAndroid) [![Kotlin Version](https://img.shields.io/badge/language-kotlin%20100%25-orange.svg)](https://kotlinlang.org/)
+[![Kotlin Version](https://img.shields.io/badge/language-kotlin%20100%25-orange.svg)](https://kotlinlang.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) ![version](https://img.shields.io/badge/version-0.1-blue) [![Generic badge](https://img.shields.io/badge/See-Project-green.svg)](https://github.com/AsynctaskCoffee/BlurryAndroid)
 
 
@@ -44,7 +44,7 @@ Async or Sync, you can quickly blur your images. The library supports Bitmap, Dr
 ## themoviedb.org MVP integration
 > Simple MVP-Kotlin list-based application.
 
-[![download repo](https://img.shields.io/github/downloads/AsynctaskCoffee/TheMovieDBApp/total)](https://github.com/AsynctaskCoffee/TheMovieDBApp) [![Kotlin Version](https://img.shields.io/badge/language-kotlin%20100%25-orange.svg)](https://kotlinlang.org/)
+[![Kotlin Version](https://img.shields.io/badge/language-kotlin%20100%25-orange.svg)](https://kotlinlang.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) [![Generic badge](https://img.shields.io/badge/See-Project-green.svg)](https://github.com/AsynctaskCoffee/TheMovieDBApp)
 
 MVP-Kotlin application, that allows the user to fetch movie and series information from a TMDB's API. :bowtie: It will make me very happy to your report about places you think have problems. :facepunch:
@@ -53,7 +53,7 @@ MVP-Kotlin application, that allows the user to fetch movie and series informati
 
 ## VideoLayout
 
-[![download repo](https://img.shields.io/github/downloads/AsynctaskCoffee/VideoLayout/total)](https://github.com/AsynctaskCoffee/VideoLayout) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ea90e5f54edc468eb5e6246f9fc806ed)](https://app.codacy.com/app/AsynctaskCoffee/VideoLayout?utm_source=github.com&utm_medium=referral&utm_content=AsynctaskCoffee/VideoLayout&utm_campaign=Badge_Grade_Dashboard) [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) ![version](https://img.shields.io/badge/version-1.1-blue) [![Generic badge](https://img.shields.io/badge/See-Project-green.svg)](https://github.com/AsynctaskCoffee/VideoLayout)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ea90e5f54edc468eb5e6246f9fc806ed)](https://app.codacy.com/app/AsynctaskCoffee/VideoLayout?utm_source=github.com&utm_medium=referral&utm_content=AsynctaskCoffee/VideoLayout&utm_campaign=Badge_Grade_Dashboard) [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) ![version](https://img.shields.io/badge/version-1.1-blue) [![Generic badge](https://img.shields.io/badge/See-Project-green.svg)](https://github.com/AsynctaskCoffee/VideoLayout)
 
 > More stylish background designs
 
@@ -65,7 +65,7 @@ The normal videoview on Android is very costly in terms of performance. Also, du
 
 ## Youtube Floating Video - FlyingVideo :tv:
 
-[![download repo](https://img.shields.io/github/downloads/AsynctaskCoffee/YoutubeFloatingVideo/total)](https://github.com/AsynctaskCoffee/YoutubeFloatingVideo) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/84183234c74045b8a64bce56e094f269)](https://app.codacy.com/app/AsynctaskCoffee/YoutubeFloatingVideo?utm_source=github.com&utm_medium=referral&utm_content=AsynctaskCoffee/YoutubeFloatingVideo&utm_campaign=Badge_Grade_Dashboard) [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) ![version](https://img.shields.io/badge/version-0.0.5-blue) [![Generic badge](https://img.shields.io/badge/See-Project-green.svg)](https://github.com/AsynctaskCoffee/YoutubeFloatingVideo)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/84183234c74045b8a64bce56e094f269)](https://app.codacy.com/app/AsynctaskCoffee/YoutubeFloatingVideo?utm_source=github.com&utm_medium=referral&utm_content=AsynctaskCoffee/YoutubeFloatingVideo&utm_campaign=Badge_Grade_Dashboard) [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) ![version](https://img.shields.io/badge/version-0.0.5-blue) [![Generic badge](https://img.shields.io/badge/See-Project-green.svg)](https://github.com/AsynctaskCoffee/YoutubeFloatingVideo)
 
 > Easy to use floating Youtube Video Library
 
@@ -76,7 +76,7 @@ Picture in picture has become popular these days. Unfortunately Android brought 
 ## AndroidOfflineMapLibrary :earth_asia:
 ##### Offline OpenStreet Map Library (No Internet Required) You dont have to even one-time connect!
 
-[![download repo](https://img.shields.io/github/downloads/AsynctaskCoffee/AndroidOfflineMapLibrary/total)](https://github.com/AsynctaskCoffee/AndroidOfflineMapLibrary) [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) ![version](https://img.shields.io/badge/version-v1-blue) [![Generic badge](https://img.shields.io/badge/See-Project-green.svg)](https://github.com/AsynctaskCoffee/AndroidOfflineMapLibrary)
+[![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) ![version](https://img.shields.io/badge/version-v1-blue) [![Generic badge](https://img.shields.io/badge/See-Project-green.svg)](https://github.com/AsynctaskCoffee/AndroidOfflineMapLibrary)
 
 > Offline OpenStreetMap Library
 
@@ -90,7 +90,7 @@ Offline map usage is kind a problem for developers and there are rare documentat
 
 ## Easy Audio Recorder
 
-[![download repo](https://img.shields.io/github/downloads/AsynctaskCoffee/VoiceRecorder/total)](https://github.com/AsynctaskCoffee/VoiceRecorder) [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) ![version](https://img.shields.io/badge/version-0.3-blue) [![Generic badge](https://img.shields.io/badge/See-Project-green.svg)](https://github.com/AsynctaskCoffee/VoiceRecorder)
+[![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) ![version](https://img.shields.io/badge/version-0.3-blue) [![Generic badge](https://img.shields.io/badge/See-Project-green.svg)](https://github.com/AsynctaskCoffee/VoiceRecorder)
 
 > Two stylish design and
 

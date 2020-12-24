@@ -30,6 +30,17 @@ Let me introduce myself :slightly_smiling_face: I am Egemen, as you all coding w
 
 
 
+## TinderLike Cards ♀️♂️
+> Stylish animations and designs like Tinder.
+
+[![Kotlin Version](https://img.shields.io/badge/language-kotlin%20100%25-orange.svg)](https://kotlinlang.org/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0) ![version](https://img.shields.io/badge/version-0.1-blue) [![Generic badge](https://img.shields.io/badge/See-Project-green.svg)](https://github.com/AsynctaskCoffee/TinderLikeCardStack)
+
+
+This project arose from the idea of turning a small part of freelance project I did a long time ago into a library. With TinderLike Cards library, you can easily have a tinder-style design. Since the project was written in the past, it may have problems. I will continue to improve the library with your help. Please be sure to report any issues you find. I took the structure of listview as an example for myself. You can easily include it in your project with the use of a simple adapter. :facepunch:
+
+---
+
 ## Blurr :foggy: Easy Blur and Tools Library
 > Simple and quick solution for blurred bitmaps.
 

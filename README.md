@@ -28,6 +28,9 @@ Beyond mobile development, I have a strong interest in **low-level systems and p
 * **Python** for automation, tooling, and AI-assisted workflows
 * **Android (Kotlin/Java)** for building modern, production-ready applications
 
+## 📊 Tech & Activity 
+<p align="center"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AsynctaskCoffee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AsynctaskCoffee&layout=compact&langs_count=8&theme=tokyonight"/> </p>
+
 I love exploring how software works **under the hood** — from operating system internals to high-level mobile architectures.
 
 Due to a busy professional life I haven't always been as active as I'd like on GitHub, but I'm working on changing that. Expect more **open-source projects, experiments, and technical write-ups** here.
@@ -35,6 +38,7 @@ Due to a busy professional life I haven't always been as active as I'd like on G
 If you're interested in **systems programming, mobile development, reverse engineering, or building creative tools**, feel free to connect or follow along.
 
 Let’s build something awesome together 🚀
+
 
 ---
 
